@@ -1,0 +1,20 @@
+export const globalStyles = {
+  colors: {
+    primary50: '#e5f8fa',
+    primary100: '#B3E8E5',
+    primary200: '#82DBD8',
+    primary300: '#3BACB6',
+    primary400: '#2F8F9D',
+    primary500: '#006E7F',
+    gray100: '#F2F2F2',
+    gray200: '#C4B6B6',
+    gray300: '#7E7474',
+    gray500: '#39311D',
+    error100: '#FFF2F2',
+    error200: '#FFC3C3',
+    error300: '#FF8C8C',
+    error400: '#FF5D5D',
+    accent200: '#FFE59D',
+    accent500: '#F9D923',
+  },
+};
